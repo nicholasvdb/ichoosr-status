@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 290,
-    "timeWeek": 290,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "time": 312,
+    "timeDay": 312,
+    "timeWeek": 312,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 339,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
@@ -69,6 +69,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "ENNL API",
+    "url": "https://api-ennl.ichoosr.com",
+    "icon": "https://favicons.githubusercontent.com/api-ennl.ichoosr.com",
+    "slug": "ennl-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1041,
+    "timeDay": 1041,
+    "timeWeek": 1041,
+    "timeMonth": 1041,
+    "timeYear": 1041,
     "dailyMinutesDown": {}
   }
 ]
