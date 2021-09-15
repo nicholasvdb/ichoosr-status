@@ -11,29 +11,63 @@ sites:
     url: https://api-spnl.ichoosr.com
   - name: TPNL API
     url: https://api-tpnl.ichoosr.com
+  - name: ECNL API
+    url: https://api-ecnl.ichoosr.com
   - name: ENBE API
     url: https://api-enbe.ichoosr.com
   - name: SPBE API
     url: https://api-spbe.ichoosr.com
   - name: REBE API
     url: https://api-rebe.ichoosr.com
+  - name: ENUK API
+    url: https://api-enuk.ichoosr.com
+  - name: SPUK API
+    url: https://api-spuk.ichoosr.com
+  - name: ENUS API
+    url: https://api-enus.ichoosr.com
+  - name: ENJP API
+    url: https://api-enjp.ichoosr.com
+  - name: SPJP API
+    url: https://api-spjp.ichoosr.com
   - name: ENNL APP
     url: https://app-ennl.ichoosr.com
   - name: SPNL APP
     url: https://app-spnl.ichoosr.com
   - name: TPNL APP
     url: https://internetcollectief.eigenhuis.nl
+  - name: ECNL APP
+    url: https://samen.nl
   - name: ENBE APP
     url: https://ichoosr.be/energie/ichoosr/home
   - name: SPBE APP
     url: https://ichoosr.be/zonnepanelen/
   - name: REBE APP
     url: https://ichoosr.be/thuisbatterij/
+  - name: ENUK APP
+    url: https://bigcommunityswitch.co.uk
+  - name: SPUK APP
+    url: https://solartogether.co.uk
+  - name: ENJP APP
+    url: https://group-buy.metro.tokyo.lg.jp
+  - name: SPJP APP
+    url: https://group-buy.jp/solar
   - name: Backoffice
     url: https://backoffice.ichoosr.com
   - name: CMS API
     url: https://content.ichoosr.com
-
+  - name: Mailer API
+    url: https://mailer.ichoosr.com/swagger/index.html
+  - name: Identity
+    url: https://identity.ichoosr.com/
+  - name: Payments API
+    url: https://payments.ichoosr.com/swagger/index.html
+  - name: Forms API
+    url: https://forms.ichoosr.com/
+  - name: Offers API
+    url: https://offers.ichoosr.com/
+  - name: Profiles API
+    url: https://profiles.ichoosr.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
