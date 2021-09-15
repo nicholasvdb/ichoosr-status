@@ -23,6 +23,10 @@ sites:
     url: https://app-spnl.ichoosr.com
   - name: TPNL APP
     url: https://app-tpnl.ichoosr.com
+  - name: Backoffice
+    url: https://backoffice.ichoosr.com
+  - name: CMS API
+    url: https://content.ichoosr.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
