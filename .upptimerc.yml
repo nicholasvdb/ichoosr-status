@@ -7,6 +7,7 @@ sites:
     url: https://www.google.com
   - name: ENNL API
     url: https://api-ennl.ichoosr.com
+    country: Netherlands
   - name: SPNL API
     url: https://api-spnl.ichoosr.com
   - name: TPNL API
