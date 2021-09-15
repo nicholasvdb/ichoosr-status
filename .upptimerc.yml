@@ -13,6 +13,16 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: ENNL API
     url: https://api-ennl.ichoosr.com
+  - name: SPNL API
+    url: https://api-spnl.ichoosr.com
+  - name: TPNL API
+    url: https://api-tpnl.ichoosr.com
+  - name: ENNL APP
+    url: https://app-ennl.ichoosr.com
+  - name: SPNL APP
+    url: https://app-spnl.ichoosr.com
+  - name: TPNL APP
+    url: https://app-tpnl.ichoosr.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
