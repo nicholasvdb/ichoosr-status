@@ -22,7 +22,7 @@ sites:
   - name: SPNL APP
     url: https://app-spnl.ichoosr.com
   - name: TPNL APP
-    url: https://app-tpnl.ichoosr.com
+    url: https://internetcollectief.eigenhuis.nl
   - name: Backoffice
     url: https://backoffice.ichoosr.com
   - name: CMS API
