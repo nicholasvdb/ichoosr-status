@@ -274,19 +274,19 @@
     "url": "https://internetcollectief.eigenhuis.nl",
     "icon": "https://favicons.githubusercontent.com/internetcollectief.eigenhuis.nl",
     "slug": "tpnl-app",
-    "status": "down",
-    "uptime": "91.06%",
-    "uptimeDay": "91.06%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "91.06%",
-    "time": 635,
-    "timeDay": 635,
-    "timeWeek": 635,
-    "timeMonth": 635,
-    "timeYear": 635,
+    "status": "up",
+    "uptime": "90.16%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "90.16%",
+    "uptimeMonth": "90.16%",
+    "uptimeYear": "90.16%",
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2021-09-16": 69
+      "2021-09-16": 77
     }
   },
   {
