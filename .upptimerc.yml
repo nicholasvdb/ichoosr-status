@@ -68,6 +68,8 @@ sites:
     url: https://offers.ichoosr.com/
   - name: Profiles API
     url: https://profiles.ichoosr.com/
+  - name: RealTime API
+    url: https://real-time.ichoosr.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
