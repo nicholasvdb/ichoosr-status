@@ -64,8 +64,12 @@ sites:
     url: https://payments.ichoosr.com/swagger/index.html
   - name: Forms API
     url: https://forms.ichoosr.com/
+    assignees:
+      - drikusroor
   - name: Offers API
     url: https://offers.ichoosr.com/
+    assignees:
+      - drikusroor
   - name: Profiles API
     url: https://profiles.ichoosr.com/
   - name: RealTime API
