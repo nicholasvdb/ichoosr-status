@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/api-ennl.ichoosr.com",
     "slug": "ennl-api",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 1067,
     "timeDay": 1337,
     "timeWeek": 1134,
@@ -479,9 +479,9 @@
     "url": "https://mailer.ichoosr.com/swagger/index.html",
     "icon": "https://favicons.githubusercontent.com/mailer.ichoosr.com",
     "slug": "mailer-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -490,7 +490,9 @@
     "timeWeek": 947,
     "timeMonth": 748,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 0
+    }
   },
   {
     "name": "Identity",
